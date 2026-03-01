@@ -1,55 +1,99 @@
-# Hi, I'm Ishtiaq 👋
+<h1 align="center">Hi, I am Ishtiaq 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Next.js+Specialist;Backend+Architecture+Focused;I+build+scalable+web+applications&center=true&width=600&height=45" /> </p>
+🚀 About Me
 
-Full Stack Developer with hands-on experience building scalable web applications — from clean frontends to robust backends and cloud deployments.
+I am a Full Stack Developer focused on building scalable, production ready web applications from frontend interfaces to backend systems and cloud deployments.
 
----
+I work primarily with modern TypeScript ecosystems and enjoy transforming ideas into stable, maintainable, and high performance products.
 
-## About Me
+I specialize in:
 
-I work with modern JavaScript/TypeScript ecosystems and enjoy turning ideas into production-ready products. I focus on writing maintainable code, building smooth user experiences, and shipping fast with the right tools.
+Building clean and scalable full stack applications
 
-- 🔭 Currently building full stack apps with **Next.js**, **NestJS**, and **PostgreSQL**
-- 🤝 Open to freelance projects and collaborations
-- 📫 Reach me via [GitHub](https://github.com/devbyishtiaq)
+Designing maintainable backend architectures
 
----
+Shipping fast without compromising code quality
 
-## Tech Stack
+Optimizing performance and user experience
 
-**Languages**
-TypeScript · JavaScript · Python · SQL
+Deploying reliable infrastructure on the cloud
 
-**Frontend**
-React.js · Next.js · Tailwind CSS · Material UI · Chakra UI · shadcn/ui · DaisyUI
+If you need a dependable full stack solution built the right way, I can help.
 
-**Backend**
-Node.js · Express.js · NestJS
+🧠 What I Actually Do
 
-**Databases**
-MongoDB · PostgreSQL
+Develop full stack apps using MERN and Next.js
 
-**Cloud & DevOps**
-AWS · CI/CD · GitHub Actions
+Build REST APIs with Express and NestJS
 
-**AI Tools & Platforms**
-Cursor · v0 · Lovable · Replit · GitHub Copilot · Claude
+Architect structured backend systems
 
----
+Design responsive and accessible user interfaces
 
-## What I Build
+Implement SEO best practices
 
-- Full stack web applications using the **MERN stack** and **Next.js**
-- REST APIs and backend services with **Node.js**, **Express**, and **NestJS**
-- Responsive, accessible UIs with modern component libraries
-- Scalable infrastructure on **AWS** with automated **CI/CD pipelines**
-- AI-assisted development workflows for faster delivery
+Deploy applications using AWS and CI/CD pipelines
 
----
+⚙️ Tech Stack
 
-## GitHub Stats
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=devbyishtiaq&theme=minimal&hide_border=true)
 
----
 
-*Thanks for stopping by. Feel free to explore my repos or reach out for a project.*
+
+
+
+
+
+
+
+
+
+
+
+
+Frontend
+
+React.js • Next.js • TypeScript • Tailwind CSS • Material UI • Chakra UI • shadcn/ui • DaisyUI
+
+Backend
+
+Node.js • Express.js • NestJS • REST APIs • Authentication • Authorization
+
+Databases
+
+MongoDB • PostgreSQL
+
+Cloud and DevOps
+
+AWS • GitHub Actions • CI/CD • Deployment Automation
+
+AI Tools and Platforms
+
+Cursor • v0 • Lovable • Replit • GitHub Copilot • Claude
+
+🧩 Core Expertise
+
+Full Stack Web Applications
+
+API Development and Backend Services
+
+SEO Optimized Static and Dynamic Websites
+
+Scalable Cloud Deployments
+
+Production Ready System Architecture
+
+Clean and Maintainable Codebases
+
+🛠️ Tools I Use Daily
+
+Git • GitHub • Postman • Figma • VS Code • CI/CD Workflows
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devbyishtiaq&show_icons=true&hide_border=true" height="170" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devbyishtiaq&layout=compact&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbyishtiaq&theme=minimal&hide_border=true" /> </p>
+🤝 Let’s Build Something Impactful
+
+If you have a project idea, a product to scale, or a backend that needs structure, let us build it properly.
+
+📫 Connect with me
+
+GitHub: https://github.com/devbyishtiaq
