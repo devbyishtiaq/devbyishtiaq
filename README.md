@@ -48,9 +48,7 @@ Cursor · v0 · Lovable · Replit · GitHub Copilot · Claude
 
 ## GitHub Stats
 
-![devbyishtiaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbyishtiaq&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devbyishtiaq&layout=compact&theme=default&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=devbyishtiaq&theme=minimal&hide_border=true)
 
 ---
 
